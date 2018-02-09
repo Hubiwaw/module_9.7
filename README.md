@@ -1,4 +1,4 @@
-# Project module 9.7
+# Project module 9.7(Rock-Paper-Scissors)
 - Game Stone, Paper, Scissors.
 
 lerem ipsum
